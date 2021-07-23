@@ -1,5 +1,3 @@
-#Tutorial-5 Solution:
-
 # Multiple Linear Regression 
 
 # Importing the dataset 
